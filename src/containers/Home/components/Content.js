@@ -1,14 +1,11 @@
 import React, { Component } from 'react';
-import { Button } from 'reactstrap';
-import ErrorHandler from './ErrorHandler';
-import Hello from './Hello';
 
-@ErrorHandler
 export default class Content extends Component {
   render() {
     return (
       <div className="content">
-        <Button>123</Button>
+        <h1>Hello, We are ReactMaker!</h1>
+        <h2>This is Content Component!</h2>
       </div>
     );
   }
