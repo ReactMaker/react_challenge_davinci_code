@@ -1,6 +1,10 @@
-# Simple React Start Kit 2017
+# react_challenge_davinci_code
 
-這個環境包可以讓你快速體驗 ReactJS 開發環境的便利，我們並沒有在裏面放入太多套件(例如 redux, karma)，希望可以讓你用最簡單的環境開始學習 React
+React JS 製作終極密碼遊戲，電腦隨機從1~100中抽取數字，讓使用者進行猜數字。
+
+![Imgur](https://i.imgur.com/6Z0ak3V.gif)
+
+## [DEMO](https://reactmaker.github.io/react_challenge_davinci_code/)
 
 ## 特色
 
